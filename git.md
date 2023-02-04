@@ -22,4 +22,4 @@
 
 
 
-sozdanie vetka0
+Create vetka0
