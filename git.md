@@ -19,7 +19,4 @@
 
 Спасибо за внимание
 
-
-
-
-sozdanie vetka0
+sozdanie master
