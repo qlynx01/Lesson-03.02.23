@@ -19,25 +19,4 @@
 
 Спасибо за внимание
 
-sozdanie master
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Create vetka2
+Sozdanie vetka1
